@@ -18,7 +18,7 @@ Nội dung bao gồm:
 
 ## 📑 Tài nguyên bổ sung
 
-- 📂 Google Drive - Ứng dụng IoT [(drive.google.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1Hxh8mXVoWi_0Pyudwse2XEzSrGaE0pdH")  
+- 📂 Google Drive - Ứng dụng IoT [(drive.google.com)](https://www.bing.com/search?q="https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1Hxh8mXVoWi_0Pyudwse2XEzSrGaE0pdH")  
   Chứa thêm tài liệu, bài tập và hướng dẫn chi tiết.
 
 ---
